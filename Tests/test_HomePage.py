@@ -18,5 +18,3 @@ class HomeTest:
         self.homePage.close()
 
 
-test = HomeTest(TestData.BROWSER)
-test.launch_application_and_find_distance()
